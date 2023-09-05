@@ -9,4 +9,3 @@ npm run build
 ###启用热加载模式
 ```
 npm run watch
-```
